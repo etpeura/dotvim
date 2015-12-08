@@ -2,6 +2,9 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 set showmatch
+syntax on
+filetype indent plugin on
+set modeline
 
 " pathogen
 execute pathogen#infect()
