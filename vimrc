@@ -22,4 +22,4 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 " Special chars
 set list
-set listchars=nbsp:¬,eol:¶,tab:>-,extends:»,precedes:«,trail:•
+set listchars=nbsp:¬,tab:>-,extends:»,precedes:«,trail:•
